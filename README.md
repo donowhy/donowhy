@@ -3,7 +3,7 @@
 <div>
   <h2>
     Web Developer/Engineer
-<!--     (<del><a href="https://donowhy.github.io/">More About Me</a></del>) -->
+<!--     (<del><a href="[https://donowhy.github.io/]">More About Me</a></del>) -->
   </h2>
   <ol>
     <li>Python(ML with pytorch, tensorflow)</li>
