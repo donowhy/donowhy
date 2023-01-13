@@ -7,6 +7,11 @@
   </h2>
   <ol>
     <li>Python(ML with pytorch, tensorflow)</li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Vue.js</li>
+  
+    
   </ol>
   <p><strong>Interested in the following topics:</strong></p>
   <ol>
