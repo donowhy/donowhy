@@ -30,17 +30,24 @@
     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
    
-  </div>
-  <div>
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=k4minseung)](https://solved.ac/k4minseung)
-    <img src="http://mazandi.herokuapp.com/api?handle={k4minseung}&theme=warm"/>
-  </div>
-  <div>
-  [![Minseung's GitHub stats](https://github-readme-stats.vercel.app/api?username=k4minseung)](https://github.com/k4minseung/github-readme-stats)
-  </div>
+</div>
+<!--- 백준티어 및 솔브 잔디 --->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=k4minseung)](https://solved.ac/k4minseung)
+
+
+<h1></h1>
+<br/>
+
+<details markdown="1">
+<summary>Project</summary>
+</details>
+<br/>
+
    <h4>
     Email
 <!--     (<del><a href="[https://k4minseung@gmail.com]">More About Me</a></del>) -->
   </h4>
-  
+  ## GitHub Stats
+
+[![Minseung's github stats](https://github-readme-stats.vercel.app/api?username=donowhy&theme=material-palenight)](https://github.com/donowhy/github-readme-stats)
 </div>
