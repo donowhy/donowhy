@@ -20,6 +20,7 @@
     
   </ol>
   <div>
+    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
     <img src="https://img.shields.io/badge/python-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -28,10 +29,14 @@
     <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-    
- 
-    
-    
+   
+  </div>
+  <div>
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=k4minseung)](https://solved.ac/k4minseung)
+    <img src="http://mazandi.herokuapp.com/api?handle={k4minseung}&theme=warm"/>
+  </div>
+  <div>
+  [![Minseung's GitHub stats](https://github-readme-stats.vercel.app/api?username=k4minseung)](https://github.com/k4minseung/github-readme-stats)
   </div>
    <h4>
     Email
