@@ -12,13 +12,6 @@
     <li>Java</li>
     <li>Spring</li>
     <li>Python(ML with pytorch, tensorflow)</li>
-    <li>Django</li>
-    <li>JavaScript</li>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>BootStrap</li>
-    <li>Vue.js</li>
-  
     
   </ol>
   <p><strong>Interested in the following topics:</strong></p>
