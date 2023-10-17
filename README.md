@@ -11,7 +11,6 @@
   <ol>
     <li>Java</li>
     <li>Spring</li>
-    <li>Python(ML with pytorch, tensorflow)</li>
     
   </ol>
   <p><strong>Interested in the following topics:</strong></p>
