@@ -52,6 +52,18 @@
     </div>
 </div>
 <br/>
+<div align="center">
+<h2>🏃‍♀️ Activities </h2>
+
+| Organization |                Activity                |               Position                | Achieve | Date |
+| :----------: | :------------------------------------: | :-----------------------------------: | :-----: | :--: |
+|  SSAFY 9기   |                 아빠안잔다 (우수상)                |         Leader,<br/>DBA, <br/>Backend          |  참여   | 2023 |
+|  Shinhan hackathon   |                 EggMoneyna                  |         Leader,<br/>Backend         |  참여   | 2023 |
+|  SSAFY 9기   |      CRIT (우수상)           |         Leader, <br/>DBA, <br/>Backend         |  참여   | 2023 |
+|  SSAFY 9기   |     SAMSUNG SW ACADEMY FOR YOURTH      |               지역 대표               | 참여 | 2023 |
+
+</div>
+
 
 <details markdown="1">
 <summary align="center">현재 진행중인 토이 프로젝트 🐣 (12.04 ~ 12.29) in GitLab </summary>
