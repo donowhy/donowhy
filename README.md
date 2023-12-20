@@ -66,7 +66,7 @@
 
 
 <details markdown="1">
-<summary align="center">현재 진행중인 토이 프로젝트 🐣 (12.04 ~ 12.29) in GitLab </summary>
+<summary align="center">현재 진행중인 토이 프로젝트 🐣 </summary>
 
 ### 서로의 할 일들을 공유하고, 공유하면서 동기부여를 통해 오늘을 살아내는 Toy Project. (1인 Front 100%, Back 100%) 
 
