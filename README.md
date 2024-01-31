@@ -66,19 +66,17 @@
 
 
 <details markdown="1">
-<summary align="center">현재 진행중인 토이 프로젝트 🐣 </summary>
+<summary align="center">현재 진행중인 사이드 프로젝트 🐣 </summary>
 
-### 서로의 할 일들을 공유하고, 공유하면서 동기부여를 통해 오늘을 살아내는 Toy Project. (1인 Front 100%, Back 100%) 
+### 귀여운 몬스터들을 키워내는 과정과 보상! 기대해주세요 (4인 Project, Backend Developer) 
 
-- **Skill set**: React.js, Spring Boot, Querydsl JPA, Spring data JPA, MySQL, kafka, Docker, Git, SourceTree, GitLab, GitLab Runner(CI/CD) -> On-premiss
-- **프로젝트 의의**: 프로젝트에서 ORM 표준 JPA를 공부하면서 적용하고, Kafka, Docker, Querydsl JPA에 많은 고민과 배움을 이뤄내기 위한 프로젝트
-- **진행 상황**:
-    - (12.10) 주간 보고     
-    - React.js - 처음하는 거라 배우는 중.
-    - Spring Boot - JPA와 Querydsl을 통해 Query 최적화를 어떻게 할 수 있을지 고민과 적용 중.  
-    
+- **Skill set**:
+   Spring Boot, Spring Data JPA, Query dsl JPA, Spring AOP, Spring Cloud, Spring Scheduler, Prometheus, Grafana, ELK, Kafka, Redis, MongoDB, MySQL, AWS EC2, Jenkins, AWS S3, Cloud Front
+- **프로젝트 의의**:
+  작은 성취를 통해 성취를 배우고, 작은 재미를 통해 하루에 활력을 더해주는 프로젝트 !
+- **예정**
+  24.04.01 (월) 1차 Release 
 </details>
-
 <br/>
 
 
