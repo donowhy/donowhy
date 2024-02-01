@@ -20,6 +20,10 @@
     <div align="center">
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/> 
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white"/>
     </div>
     <br/>
     <p align="center"><strong>Database ☀️</strong></p>
@@ -31,14 +35,13 @@
         <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
         <img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
     </div>
-<!--     배포 -->
-<!--     <p><strong>Deploy</strong></p> -->
-<!--         <div>
+    <p><strong>Deploy</strong></p> 
+      <div>
         <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-        <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+        <img src="https://img.shields.io/badge/gitlab Runner-FC6D26?style=for-the-badge&logo=gitlab Runner&logoColor=white"/>
         <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
         <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-    </div> -->
+      </div>
     <br/>
     <p align="center"><strong>Collaboration 🌙</strong></p>
     <div align="center">
