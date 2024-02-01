@@ -35,8 +35,8 @@
         <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
         <img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
     </div>
-    <p><strong>Deploy</strong></p> 
-      <div>
+      <p align="center"><strong>Deploy ⭐</strong></p>
+      <div align="center">
         <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
         <img src="https://img.shields.io/badge/gitlab Runner-FC6D26?style=for-the-badge&logo=gitlab Runner&logoColor=white"/>
         <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
