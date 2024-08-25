@@ -6,8 +6,10 @@
 <br/>
 
 <div style="font-family: Arial, sans-serif;">
+    <h2> What's my next step?</h2>
     <h3>Experience</h3>
-    <p>23.11 ~ Naviworks Tech Team - Backend 개발자<br/>
+    <p>24.08 ~ SL IT Team 개발자 인턴 <br/>
+    <p>23.11 ~ 24.08 Naviworks Tech Team - Backend 개발자<br/>
     23.01 ~ 23.11 SSAFY (SAMSUNG Software Academy For Youth) 9기</p>
 </div>
 
